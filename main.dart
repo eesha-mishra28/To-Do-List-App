@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Splash Screen
+// Splash the Screen
 class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
